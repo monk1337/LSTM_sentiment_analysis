@@ -1,6 +1,5 @@
 # coding: utf-8
 
-__copyright__ = "Copyright 2018, Saama Technologies"
 __version__ = "1.0"
 __maintainer__ = "Monk"
 __status__ = "Production"
